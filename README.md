@@ -1,2 +1,2 @@
 # Weather-buddy
-An IOT based weather station using NodeMCU
+Weather-buddy is a IOT based weather station made using NodeMCU and DHT temperature and humidity sensor. It takes the input with the help of the attached sensor, sends it over to a IOT webservice, thingspeak.com, which is reflected upon by real-time graphs and visualisations over the project channel. The current temerature and humidity values are also visible on a Oled-I2C display attached to the device.
